@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Subhasri Godi - Portfolio</title>
+  
+</head>
+<body>
+
+  <header>
+    <h1>Subhasri Godi</h1>
+    <nav>
+      <ul>
+        <li><a>Tamarada </a></li>
+        <li><a>subhasrigodi0909@gmail.com</a></li>
+        <li><a>1234567890</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>About Me</h2>
+      <p>I am a B.C.A student from Aditya Degree College, Kakinada with a passion for programming and technology. I have hands-on experience with Python, HTML, Java, and Microsoft tools. I am constantly learning and working on new projects to expand my skill set.</p>
+    </section>
+
+    <section class="profile">
+      <img src="your-photo.jpg" hight="200" width=300 alt="suhe">
+      <p class="caption">This is me — always ready to learn and grow!</p>
+    </section>
+  </main>
+
+</body>
+</html>
